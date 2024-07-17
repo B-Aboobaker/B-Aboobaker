@@ -1,19 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aboobaker</h1>
 <h3 align="center">An Artificial Intelligence and Machine Learning specialist from South Africa</h3>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=github_dark" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=dark" alt="b-aboobaker" /> </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=radical" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=merko" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=tokyonight" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=onedark" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=cobalt" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=synthwave" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=highcontrast" alt="b-aboobaker" /> </p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=dracula" alt="b-aboobaker" /> </p>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
