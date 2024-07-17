@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=algolia" alt="b-aboobaker" /> </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aboobaker-b-9089b3102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboobaker banoo" height="30" width="40" /></a>
@@ -38,6 +37,6 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-aboobaker&show_icons=true&locale=en&layout=compact" alt="b-aboobaker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&locale=en" alt="b-aboobaker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=cobalt" alt="b-aboobaker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&" alt="b-aboobaker" /></p>
