@@ -36,15 +36,9 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=github_dark" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=dark" alt="b-aboobaker" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=radical" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=merko" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=gruvbox" alt="b-aboobaker" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=tokyonight" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=onedark" alt="b-aboobaker" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=cobalt" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=synthwave" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=highcontrast" alt="b-aboobaker" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=dracula" alt="b-aboobaker" /></p>
 
 
