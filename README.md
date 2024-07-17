@@ -39,7 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=radical" alt="b-aboobaker" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=tokyonight" alt="b-aboobaker" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=cobalt" alt="b-aboobaker" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=dracula" alt="b-aboobaker" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=radical" alt="b-aboobaker" /></p>
