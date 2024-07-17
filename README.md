@@ -39,15 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=github_dark" alt="b-aboobaker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=merko" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=dark" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=radical" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=gruvbox" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=tokyonight" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=onedark" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=cobalt" alt="b-aboobaker" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=synthwave" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=highcontrast" alt="b-aboobaker" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=dracula" alt="b-aboobaker" /></p>
-Visual
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
