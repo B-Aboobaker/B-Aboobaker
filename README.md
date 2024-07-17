@@ -35,8 +35,8 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=radical" alt="b-aboobaker" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aboobaker&layout=pie&theme=merko" alt="b-aboobaker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=synthwave" alt="b-aboobaker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=merko" alt="b-aboobaker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=merko" alt="b-aboobaker" /></p>
