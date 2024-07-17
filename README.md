@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aboobaker</h1>
 <h3 align="center">An Artificial Intelligence and Machine Learning specialist from South Africa</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=b-aboobaker&label=Profile%20views&color=0e75b6&style=darkhub" alt="b-aboobaker" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker&theme=darkhub" alt="b-aboobaker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-aboobaker" alt="b-aboobaker" /></a> </p>
 
