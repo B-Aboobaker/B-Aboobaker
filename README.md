@@ -41,10 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=dark" alt="b-aboobaker" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=radical" alt="b-aboobaker" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=merko" alt="b-aboobaker" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=gruvbox" alt="b-aboobaker" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=tokyonight" alt="b-aboobaker" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=synthwave" alt="b-aboobaker" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=highcontrast" alt="b-aboobaker" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=synthwave" alt="b-aboobaker" /></p>
