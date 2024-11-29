@@ -41,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-aboobaker&theme=synthwave" alt="b-aboobaker" /></p>
 
+![](https://komarev.com/ghpvc/?username=B-Aboobaker&color=blue)
