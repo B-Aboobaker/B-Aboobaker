@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-aboobaker&show_icons=true&theme=radical" alt="b-aboobaker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=b-aboobaker&theme=dark" alt="b-aboobaker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=B-Aboobaker&theme=synthwave" alt="b-aboobaker" /></p>
 
 ![](https://komarev.com/ghpvc/?username=B-Aboobaker&color=blue)
