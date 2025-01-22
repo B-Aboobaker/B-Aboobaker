@@ -41,4 +41,6 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=b-aboobaker&theme=synthwave" alt="b-aboobaker" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=b-aboobaker&theme=dark)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=B-Aboobaker&color=blue)
